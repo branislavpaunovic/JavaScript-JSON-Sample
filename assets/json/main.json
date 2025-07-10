@@ -1,0 +1,54 @@
+{
+  "ime": "Bane",
+  "godine": 48,
+  "indeks" : "2i1/0054/24",
+  "godina_upisa" : 2024,
+  "freelancer": true,
+  "vestine": ["HTML", "CSS", "JavaScript", "PHP"],
+  "ocene":[
+    {
+        "predmet" : "Engleski jezik",
+        "ocena" : 9
+    },
+    {
+        "predmet" : "Objetno programiranje",
+        "ocena" : 7
+    },
+    {
+        "predmet" : "Racunarske mreze",
+        "ocena" : 8
+     },
+    {
+        "predmet" : "Elektornsko poslovanje",
+        "ocena" : 10
+     },
+    {
+        "predmet" : "Graficki dizajn",
+        "ocena" : 10
+    },
+    {
+        "predmet" : "Internet thnologije",
+        "ocena" : 9
+    },
+    {
+        "predmet" : "Veb dizajn",
+        "ocena" : 10
+    },
+    {
+        "predmet" : "Menadzment informacioni sistemi",
+        "ocena" : 8
+    },
+    {
+        "predmet" : "Upravljanje softvereskim projektima",
+        "ocena" : 9
+    },
+    {
+        "predmet" : "Veb programiranje",
+        "ocena" : 10
+    },
+    {
+        "predmet" : "Pravne osnove infromacionih sistema",
+        "ocena" : 9
+    }
+  ]
+}
